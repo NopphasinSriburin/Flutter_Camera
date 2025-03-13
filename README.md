@@ -1,7 +1,12 @@
 # 📸 Flutter Camera App
 ## ตัวอย่างเมื่อรันได้
 
-![image](https://github.com/user-attachments/assets/dcf7c60a-0246-47ab-b6ce-2fd4fb0cd2e5)
+![image](https://github.com/user-attachments/assets/dcf7c60a-0246-47ab-b6ce-2fd4fb0cd2e5) ![image](https://github.com/user-attachments/assets/133e4d0f-aab8-41f1-9003-a8ca9bd37549)![image](https://github.com/user-attachments/assets/920e658c-37b9-4a45-ac1b-767f36c80936) ![image](https://github.com/user-attachments/assets/45979c6e-da7c-46fb-beef-51c0aea6b728)
+![image](https://github.com/user-attachments/assets/13cb175d-8fdb-447d-8fbd-a018c515fdc6) ![image](https://github.com/user-attachments/assets/2083935f-cc2f-406b-85c7-67b374fee5ea)
+
+
+
+
 
 
 ## 🚀 เริ่มต้นการใช้งาน
